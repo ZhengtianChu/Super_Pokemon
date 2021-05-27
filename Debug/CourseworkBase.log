@@ -1,0 +1,41 @@
+﻿  Bgm.cpp
+  bullet.cpp
+  ChooseState.cpp
+  DraggingDemo.cpp
+  DrawingSurface.cpp
+  FlashingDemo.cpp
+  HelpState.cpp
+  ImageMappingDemo.cpp
+  LoadState.cpp
+  mainfunction.cpp
+  BaseEngine.cpp
+  DisplayableObject.cpp
+  FontManager.cpp
+  MovingPokemon.cpp
+  MovingPokemon2.cpp
+  MyDemoA.cpp
+  MyObjectB.cpp
+  MyTileManager.cpp
+  RunningState.cpp
+  SaveState.cpp
+  Generating Code...
+  Compiling...
+  ScoreState.cpp
+  Scyzc3Engine.cpp
+  Scyzc3Object.cpp
+  Scyzc3TileManager.cpp
+  SimpleImage.cpp
+  SimpleDemo.cpp
+  StarfieldDemo.cpp
+  StartUpState.cpp
+  TileManager.cpp
+  BouncingBall.cpp
+  BouncingBallMain.cpp
+  WinState.cpp
+  ZoomingDemo.cpp
+  Generating Code...
+  MazeDemoMain.cpp
+  MazeDemoObject.cpp
+  MazeDemoTileManager.cpp
+  Generating Code...
+  CourseworkBase.vcxproj -> C:\Users\Hello\Desktop\CPPCoursework2021-v101\Debug\CourseworkBase2020.exe
