@@ -1,1 +1,1 @@
-Two person plane pixel shooting game with Pok é mon as the material background.
+Two person plane pixel shooting game with Pokémon as the material background.
